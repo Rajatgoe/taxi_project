@@ -331,6 +331,23 @@ with open('trip_data_2.csv') as f:
     
 ```
 
+# Map reprezentation of both latitude and longitude
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/georaphical%20range.png
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/pickup%20latitude.png
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/drop_off_latitudeand%20longitude.png
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/drop_off.png
+
+
+
+#Min and max of all both latitude and longitude
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/Drop_off%20longitude.png
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/Drop_off%20latitude.png
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/pick_up%20longitude.png
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/pick_up%20latitude.png
+
+
+
+
 
 # Answer 6
 <br>
@@ -356,7 +373,8 @@ print('Average', avg)                         #for printing  Average 2.741612223
 f.close()
 ```
 
-download.png
+ image    https://github.com/Rajatgoe/taxi_project/blob/main/Images/Q6.png
+
 Average 2.7416122234633344
 
 # Answer 7
@@ -576,7 +594,7 @@ with open('trip_data_2.csv') as f:
 138852867.22586328
 [9.925027186998253, 19.850054373996507, 29.77508156099476, 39.70010874799301, 49.62513593499126, 59.55016312198952, 69.47519030898778, 79.40021749598603, 89.32524468298428, 99.25027186998253, 109.17529905698079, 119.10032624397904, 129.0253534309773, 138.95038061797555, 148.8754078049738, 158.80043499197205, 168.7254621789703, 178.65048936596855, 188.5755165529668, 198.50054373996505, 208.42557092696333, 218.35059811396158, 228.27562530095983, 238.20065248795808]
 
-
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/Q9.png
 
 # Answer 10
 
@@ -677,6 +695,6 @@ with open('trip_data_2.csv',) as f:
     plt.show()
 
 ```
-
+https://github.com/Rajatgoe/taxi_project/blob/main/Images/Q%2011.png
 
 # There is not much difference between two plots , I think its because of average of total and average of thousand
