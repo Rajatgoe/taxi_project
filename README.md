@@ -373,7 +373,7 @@ print('Average', avg)                         #for printing  Average 2.741612223
 f.close()
 ```
 
-![image of histogran](images/Q6.png)   
+![image](images/Q6.png)   
 
  https://github.com/Rajatgoe/taxi_project/blob/main/Images/Q6.png
 
