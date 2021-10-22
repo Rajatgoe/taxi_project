@@ -1,0 +1,7 @@
+import csv, time
+
+fn = 'trip_data_2.csv'
+f = open(fn,'r')
+reader = csv.reader(f)
+for row in reader:
+
