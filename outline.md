@@ -1,0 +1,2 @@
+The goal of the final project is to scrap the data from the website adderss-("https://stats.espncricinfo.com/ci/engine/records/index.html") about the cricket.
+In this project, I will scrap the data about top batsman and bowler and compare their performance through SQL query. Furthermore, the comparison will be based on their total run scored by the batsman in their batting career and maximum wicket had been taken by the bowler in their bowling carrier!
